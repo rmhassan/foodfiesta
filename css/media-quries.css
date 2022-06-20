@@ -25,10 +25,10 @@
                     margin-left: 30px;
                 }
                 .section-gutter-top {
-                    margin-top: 50px;
+                    margin-top: 50px !important;
                 }
                                 .section-gutter-bottom {
-                                    margin-bottom: 50px;
+                                    margin-bottom: 50px ;
                                 }
                                 .customer-cards {
                                     margin-top: 50px;
